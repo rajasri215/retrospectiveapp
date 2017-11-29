@@ -1,0 +1,19 @@
+{
+  "name": "retrosapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "controller.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajasri215/retrospectiveapp.git"
+  },
+  "author": "Rajasri Janakiraman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rajasri215/retrospectiveapp/issues"
+  },
+  "homepage": "https://github.com/rajasri215/retrospectiveapp#readme"
+}
